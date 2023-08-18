@@ -13,12 +13,12 @@ let {shape, shapeColor, textColor, text} = await inquirer
         {
             type: "input",
             name: "shapeColor",
-            message: "Please enter a color or it's equivalent hexidecimal value which will be applied to the shape."
+            message: "Please enter a color or it's equivalent hexadecimal value which will be applied to the shape."
         },
         {
             type: "input",
             name: "textColor",
-            message: "Please enter a color or it's equivalent hexidecimal value which will be applied to the text within the shape."
+            message: "Please enter a color or it's equivalent hexadecimal value which will be applied to the text within the shape."
         },
         {
             type: "input",
